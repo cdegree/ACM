@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1375551334 source:c:\users\thinkpad\documents\baiduyun\cf\memsql_r2\1\1.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<cctype>
+	<vector>
+	<stack>
+	<queue>
+	<map>
+	<algorithm>
+	<iostream>
+	<string>
+	<set>
+

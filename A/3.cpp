@@ -1,0 +1,60 @@
+abcdefghijklmnopqrstuv
+55
+1 : zzzzzzzzzzzzzzzz
+2 : aa
+3 : ab
+4 : aaaa
+5 : aab
+6 : abc
+7 : aaab
+8 : aaba
+9 : aabc
+10 : abcd
+11 : aaaba
+12 : aaabc
+13 : aabac
+14 : aabcd
+15 : abcde
+16 : aaabba
+17 : aaabac
+18 : aaabcd
+19 : aabacd
+20 : aabcde
+21 : abcdef
+22 : aaaabcd
+23 : aaabaca
+24 : aaabacd
+25 : aaabcde
+26 : aabacde
+27 : aabcdef
+28 : abcdefg
+29 : aaaabacd
+30 : aaaabcde
+31 : aaabacad
+32 : aaabacde
+33 : aaabcdef
+34 : aabacdef
+35 : aabcdefg
+36 : abcdefgh
+37 : aaaabacad
+38 : aaaabacde
+39 : aaaabcdef
+40 : aaabacade
+41 : aaabacdef
+42 : aaabcdefg
+43 : aabacdefg
+44 : aabcdefgh
+45 : abcdefghi
+46 : zzzzzzzzzzzzzzzz
+47 : zzzzzzzzzzzzzzzz
+48 : zzzzzzzzzzzzzzzz
+49 : zzzzzzzzzzzzzzzz
+50 : zzzzzzzzzzzzzzzz
+51 : zzzzzzzzzzzzzzzz
+52 : zzzzzzzzzzzzzzzz
+53 : zzzzzzzzzzzzzzzz
+54 : zzzzzzzzzzzzzzzz
+55 : zzzzzzzzzzzzzzzz
+
+Process returned 0 (0x0)   execution time : 22.306 s
+Press any key to continue.

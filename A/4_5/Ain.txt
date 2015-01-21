@@ -1,0 +1,27 @@
+5
+4 3
+ship sheep
+sinking thinking
+thinking sinking
+the ship is sinking
+10 5
+tidy tiny
+tiger liar
+tired tire
+tire bear
+liar bear
+a tidy tiger is tired
+4 0
+the ship is sinking
+10 5
+tidy tiny
+tiger liar
+tired tire
+tire bear
+liar bear
+a tidy tiger is tired
+4 3
+ship sheep
+sinking thinking
+thinking sinking
+the ship is sinking
